@@ -10,3 +10,6 @@ commonLabels:
 
 resources:
 - ../../../apps/xzalabaij-ambulance-ufe
+
+components:
+ - ../../../components/version-developers
